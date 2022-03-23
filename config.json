@@ -1,0 +1,18 @@
+{
+	"embeds":{
+		"color": "PURPLE"
+	},
+	"emojis":{
+		"verigud":"",
+		"veribad":""
+	},
+	"guild":{
+		"id": "869092483760533514",
+		"tag": "tag_here",
+		"roleId": "roleId_here"
+	},
+	"bot":{
+		"prefix": "?",
+		"token": "token_here"
+	}
+}
